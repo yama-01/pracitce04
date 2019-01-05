@@ -1,7 +1,22 @@
 main{
+    width: 80%;
+    float: right;
     background-image:url("IMG_3689.jpg");
     background-repeat:repeat;
     background-size:150px;
+}
+#header{
+  width: 70%;
+  float: right;
+}
+#side{
+  width: 15%;
+  float: left;
+}
+#side a{
+    display:inline-block;
+    margin-bottom:15px;
+    text-decoration:underline;
 }
 table{
     border-collapse:collapse;
