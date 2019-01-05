@@ -1,0 +1,11 @@
+main{
+    background-image:url("IMG_3689.jpg");
+    background-repeat:repeat;
+    background-size:150px;
+}
+table{
+    border-collapse:collapse;
+}
+table td{
+    border:solid 1px black;
+}
